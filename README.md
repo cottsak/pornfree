@@ -2,7 +2,7 @@
 
 But you know that already; that's why you're here. This guidance is designed for the non tech savvy of you who want to employ some technical tips to protect yourself from the devastating impact of porn.
 
-## Barriers are part of Best Practise
+## Barriers are part of Best Practice
 
 Self control is hard, so to improve your odds, we introduce barriers. Barriers:
 * Are technical roadblocks or obstacles which are designed to force you to check yourself
@@ -11,7 +11,7 @@ Self control is hard, so to improve your odds, we introduce barriers. Barriers:
 
 # Content Filtering / Parental Controls can help
 
-One of the easiest things you can do is to impose on yourself content filtering by using commonly available parental control services. The trick is to add this barrier to all devices you might access the internet from. When we're at home, we connect to the internet through our home wifi or our phone's internet connection/plan. If you're serious about adding a barrier using content filtering you'll try to filter *both* sources of internet access. Here are some ways you can filter your internet connections.
+One of the easiest things you can do is to impose on yourself content filtering by using commonly available parental control services. The trick is to add this barrier to all devices you might access the internet from. When surfing the web on a device from home, one usually uses one of two means to access the internet: the home wifi/internet connection, or the devices' built in 3/4G/cellular/mobile data. If you're serious about adding a barrier using content filtering you'll try to filter *both* sources of internet access. Here are some ways you can filter your internet connections.
 
 ## Your home internet connection
 
@@ -31,7 +31,7 @@ The final step to making this barrier effective is preventing yourself from easi
 The easiest way to circumvent a porn filter on your home router is to turn off your phone's wifi. Then you will use your mobile data from your phone provider. There are various ways to add barriers to your mobile devices. Choose one that works for you:
 
 * **For Telstra customers, you can turn on a parental filter** much like the OpenDNS option above. This is probably the most reliable option. Make sure you ask your friend/spouse or someone you trust to reset the account password so you can't easily turn this filter off.
-* **Use the built-in content filtering on your phone.** In iOS for Apple devices, there is a *Restrctions* feature (under *Settings* > *General* > *Restrictions*) which will allow the filtering of adult content (see the section *Allowed Content*). To enable Restrictions, a passcode is required: make sure you ask your friend/spouse or someone you trust to set this passcode so the barrier is useful.
+* **Use the built-in content filtering on your phone.** In iOS for Apple devices, there is a *Restrictions* feature (under *Settings* > *General* > *Restrictions*) which will allow the filtering of adult content (see the section *Allowed Content*). To enable Restrictions, a passcode is required: make sure you ask your friend/spouse or someone you trust to set this passcode so the barrier is useful.
 * Android devices generally have more options and are harder to "lock down". It can be done and you may also be able to use the OpenDNS settings mentioned above to apply the same porn filtering on your Android device if you are willing to [do some reading and learn how it works](http://www.howtogeek.com/223530/how-to-lock-down-your-android-tablet-or-smartphone-for-kids/). Remember: *get someone else to set the password* once you know what is required to enable the filtering.
 
 ## Your workplace internet connection
