@@ -1,5 +1,7 @@
 # Porn Is Dangerous
 
+> [Porn is a colossal rip-off. It’s also a powerful and addictive drug, one that will grind you to powder.](https://www.xxxchurch.com/men/an-inconvenient-truth.html)
+
 But you know that already; that's why you're here. This guidance is designed for the non tech savvy of you who want to employ some technical tips to protect yourself from the devastating impact of porn.
 
 ## Barriers are part of Best Practice
@@ -11,7 +13,12 @@ Self control is hard, so to improve your odds, we introduce barriers. Barriers:
 
 # Content Filtering / Parental Controls can help
 
-One of the easiest things you can do is to impose on yourself content filtering by using commonly available parental control services. The trick is to add this barrier to all devices you might access the internet from. When surfing the web on a device from home, one usually uses one of two means to access the internet: the home wifi/internet connection, or the devices' built in 3/4G/cellular/mobile data. If you're serious about adding a barrier using content filtering you'll try to filter *both* sources of internet access. Here are some ways you can filter your internet connections.
+One of the easiest things you can do is to impose on yourself content filtering by using commonly available parental control services. The trick is to add this barrier to all devices you might access the internet from. When surfing the web on a device from home, one usually uses one of two means to access the internet: 
+
+* Home internet (wifi, wired).
+* Mobile device/phone 3G/4G/cellular/mobile data. 
+
+If you're serious about adding a barrier using content filtering you'll try to filter *both* sources of internet access. Here are some ways you can filter your internet connections.
 
 ## Your home internet connection
 
