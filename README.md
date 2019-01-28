@@ -1,4 +1,4 @@
-# Porn Is Dangerous
+# [Porn](https://fightthenewdrug.org/overview/) Is [Dangerous](https://truthaboutporn.org/)
 
 > [Porn is a colossal rip-off. It’s also a powerful and addictive drug, one that will grind you to powder.](https://www.xxxchurch.com/men/an-inconvenient-truth.html)
 
